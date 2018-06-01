@@ -27,5 +27,10 @@ namespace HelloWordInGit
             Console.WriteLine("new one ");
         }
 
+
+        private void test2()
+        {
+            Console.WriteLine("debug1");
+        }
     }
 }
