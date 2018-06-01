@@ -21,5 +21,11 @@ namespace HelloWordInGit
         {
             MessageBox.Show("hello world");
         }
+
+        private void test()
+        {
+            Console.WriteLine("new one ");
+        }
+
     }
 }
